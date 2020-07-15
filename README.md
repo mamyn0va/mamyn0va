@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![home](./scrnsht.png)
+![home](https://github.com/mamyn0va/mamyn0va/blob/master/scrnsht.png)
 
 - 🔭 I’m currently making a reverse-proxy for a 2-FA app
 - 🌱 I’m currently learning Golang
